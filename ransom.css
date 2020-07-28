@@ -9,8 +9,15 @@ src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____
 }
 
 @font-face {
-font-family: 'RansomNote';
+font-family: 'Pauls Ransom Note';
 font-style: normal;
 font-weight: normal;
-src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____.woff') format('woff');
-src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____.ttf') format('truetype');
+src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/blob/master/pauls_ransom_note.woff') format('woff');
+src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/blob/master/Pauls%20Ransom%20Note.ttf') format('truetype');
+
+@font-face {
+font-family: 'Earwig Factory';
+font-style: normal;
+font-weight: normal;
+src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/blob/master/earwig_factory.woff') format('woff');
+src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/blob/master/earwig%20factory.ttf') format('truetype');
