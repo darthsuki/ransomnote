@@ -7,3 +7,10 @@ font-weight: normal;
 src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____.woff') format('woff');
 src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____.ttf') format('truetype');
 }
+
+@font-face {
+font-family: 'RansomNote';
+font-style: normal;
+font-weight: normal;
+src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____.woff') format('woff');
+src: url('https://raw.githubusercontent.com/darthsuki/ransomnote/master/rans____.ttf') format('truetype');
