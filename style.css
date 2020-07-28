@@ -4,5 +4,5 @@
 font-family: 'RansomNote';
 font-style: normal;
 font-weight: normal;
-src: local('RansomNote'), url('rans____.woff') format('woff');
+src: local('RansomNote'), url('https://raw.githubusercontent.com/darthsuki/ransomnote/blob/master/rans____.woff') format('woff');
 }
